@@ -1,23 +1,21 @@
-### Pierre André Lowenstein
+# Pierre André Lowenstein
 
-## Full Stack Web Developer
-## UI/UX Designer
-|
-# From Assembly to React.js
+## Full Stack Web Developer | UI/UX Designer
 
-I've been coding since age 10, at first with a beloved 16Ko ATARI 600XL Computer.
+### From Assembly to React.js
 
-Dealing with the limitations of the time, I've learned to maximize code efficiency over memory footprint.
+<p>I've been coding since age 10, at first with a beloved 16Ko ATARI 600XL Computer.</p>
 
-Nowadays, I deliver full stack applications with a strong sense of design, a cinematic touch and an entertainment industry flair.
+<p>Dealing with the limitations of the time, I've learned to maximize code efficiency over memory footprint.</p>
 
-I enjoy creating something unique that will entice the imagination of my users.
+<p>Nowadays, I deliver full stack applications with a strong sense of design, a cinematic touch and an entertainment industry flair.</p>
+
+<p>I enjoy creating something unique that will entice the imagination of my users.</p>
 
 ![ATARI 600XL - ATARI Inc. Flyer (JPG)](./atari_600xl_flyer_atari_inc.jpg?raw=true "Classic ATARI 600XL Flyer published by ATARI Inc. at the time of the machine's release.")
 
-## Contact
-<p>
+## Portfolio
 <a href="https://pierreandrelowenstein.com/" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">Portfolio: https://pierreandrelowenstein.com/</a>
-&nbsp;|&nbsp;
+
+## Contact
 <a href="mailto:coder@pierreandrelowenstein.com" title="Courriel"><em>Courriel</em></a>
-</p>
