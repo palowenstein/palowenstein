@@ -12,10 +12,7 @@
 
 <p>I enjoy creating something unique that will entice the imagination of my users.</p>
 
-![ATARI 600XL - ATARI Inc. Flyer (JPG)](./atari_600xl_flyer_atari_inc.jpg?raw=true "Classic ATARI 600XL Flyer published by ATARI Inc. at the time of the machine's release.")
-
-## Portfolio
-<a href="https://pierreandrelowenstein.com/" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">Portfolio: https://pierreandrelowenstein.com/</a>
-
-## Contact
+<a href="https://pierreandrelowenstein.com/" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">Portfolio: https://pierreandrelowenstein.com/</a> | 
 <a href="mailto:coder@pierreandrelowenstein.com" title="Courriel"><em>Courriel</em></a>
+
+![ATARI 600XL - ATARI Inc. Flyer (JPG)](./atari_600xl_flyer_atari_inc.jpg?raw=true "Classic ATARI 600XL Flyer published by ATARI Inc. at the time of the machine's release.")
