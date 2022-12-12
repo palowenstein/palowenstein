@@ -1,6 +1,6 @@
 # Pierre André Lowenstein
 
-## Full Stack + OTT Web Developer | Digital Producer
+## Full Stack + OTT Web Developer
 
 ### From Assembly to React.js
 
